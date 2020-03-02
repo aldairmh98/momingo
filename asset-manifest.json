@@ -1,0 +1,16 @@
+{
+  "main.css": "/momingo/static/css/main.8d9ba0fd.chunk.css",
+  "main.js": "/momingo/static/js/main.dccb470d.chunk.js",
+  "main.js.map": "/momingo/static/js/main.dccb470d.chunk.js.map",
+  "runtime~main.js": "/momingo/static/js/runtime~main.209804ac.js",
+  "runtime~main.js.map": "/momingo/static/js/runtime~main.209804ac.js.map",
+  "static/js/2.c5379051.chunk.js": "/momingo/static/js/2.c5379051.chunk.js",
+  "static/js/2.c5379051.chunk.js.map": "/momingo/static/js/2.c5379051.chunk.js.map",
+  "index.html": "/momingo/index.html",
+  "precache-manifest.3840397591a2bdbcf73edc2b41cf0789.js": "/momingo/precache-manifest.3840397591a2bdbcf73edc2b41cf0789.js",
+  "service-worker.js": "/momingo/service-worker.js",
+  "static/css/main.8d9ba0fd.chunk.css.map": "/momingo/static/css/main.8d9ba0fd.chunk.css.map",
+  "static/media/gorrito.png": "/momingo/static/media/gorrito.538a753b.png",
+  "static/media/milos.jpg": "/momingo/static/media/milos.6d8eb209.jpg",
+  "static/media/will-smith.jpg": "/momingo/static/media/will-smith.490f4869.jpg"
+}
