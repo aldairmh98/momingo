@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/momingo/static/js/runtime~main.209804ac.js"
   },
   {
-    "revision": "dccb470dea7241abb090",
-    "url": "/momingo/static/js/main.dccb470d.chunk.js"
+    "revision": "b25cd54ef8541e0c2c37",
+    "url": "/momingo/static/js/main.b25cd54e.chunk.js"
   },
   {
-    "revision": "c5379051239404edc4b8",
-    "url": "/momingo/static/js/2.c5379051.chunk.js"
+    "revision": "ad763cd45f157f3de341",
+    "url": "/momingo/static/js/2.ad763cd4.chunk.js"
   },
   {
-    "revision": "dccb470dea7241abb090",
-    "url": "/momingo/static/css/main.8d9ba0fd.chunk.css"
+    "revision": "b25cd54ef8541e0c2c37",
+    "url": "/momingo/static/css/main.3081fe54.chunk.css"
   },
   {
-    "revision": "e620029df34d4d9d9afefa85520aaa62",
+    "revision": "8dc5041a3f490f0f4937f629c9f0c72d",
     "url": "/momingo/index.html"
   }
 ];

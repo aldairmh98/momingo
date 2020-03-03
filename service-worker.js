@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/momingo/precache-manifest.3840397591a2bdbcf73edc2b41cf0789.js"
+  "/momingo/precache-manifest.789db012c8c16cb12fa46365d0cfe9a7.js"
 );
 
 workbox.clientsClaim();
