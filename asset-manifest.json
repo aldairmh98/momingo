@@ -1,16 +1,15 @@
 {
-  "main.css": "/momingo/static/css/main.3081fe54.chunk.css",
-  "main.js": "/momingo/static/js/main.b25cd54e.chunk.js",
-  "main.js.map": "/momingo/static/js/main.b25cd54e.chunk.js.map",
+  "main.css": "/momingo/static/css/main.7e1de3f4.chunk.css",
+  "main.js": "/momingo/static/js/main.e2e8d2e8.chunk.js",
+  "main.js.map": "/momingo/static/js/main.e2e8d2e8.chunk.js.map",
   "runtime~main.js": "/momingo/static/js/runtime~main.209804ac.js",
   "runtime~main.js.map": "/momingo/static/js/runtime~main.209804ac.js.map",
-  "static/js/2.ad763cd4.chunk.js": "/momingo/static/js/2.ad763cd4.chunk.js",
-  "static/js/2.ad763cd4.chunk.js.map": "/momingo/static/js/2.ad763cd4.chunk.js.map",
+  "static/js/2.bc76bac9.chunk.js": "/momingo/static/js/2.bc76bac9.chunk.js",
+  "static/js/2.bc76bac9.chunk.js.map": "/momingo/static/js/2.bc76bac9.chunk.js.map",
   "index.html": "/momingo/index.html",
-  "precache-manifest.789db012c8c16cb12fa46365d0cfe9a7.js": "/momingo/precache-manifest.789db012c8c16cb12fa46365d0cfe9a7.js",
+  "precache-manifest.16a6160179baa49b39441ae91b215df2.js": "/momingo/precache-manifest.16a6160179baa49b39441ae91b215df2.js",
   "service-worker.js": "/momingo/service-worker.js",
-  "static/css/main.3081fe54.chunk.css.map": "/momingo/static/css/main.3081fe54.chunk.css.map",
-  "static/media/gorrito.png": "/momingo/static/media/gorrito.538a753b.png",
+  "static/css/main.7e1de3f4.chunk.css.map": "/momingo/static/css/main.7e1de3f4.chunk.css.map",
   "static/media/milos.jpg": "/momingo/static/media/milos.6d8eb209.jpg",
   "static/media/will-smith.jpg": "/momingo/static/media/will-smith.490f4869.jpg"
 }
